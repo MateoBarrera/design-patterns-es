@@ -52,13 +52,13 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">Acerca del proyecto</a></li>
-    <li><a href="#getting-started">Introducción</a></li>
-    <li><a href="#usage">Uso del repositorio</a></li>
+    <li><a href="#acerca-del-proyecto">Acerca del proyecto</a></li>
+    <li><a href="#introducción">Introducción</a></li>
+    <li><a href="#uso-del-repositorio">Uso del repositorio</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">Licencia</a></li>
-    <li><a href="#contact">Contacto</a></li>
-    <li><a href="#acknowledgments">Agradecimientos</a></li>
+    <li><a href="#licencia">Licencia</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+    <li><a href="#agradecimientos">Agradecimientos</a></li>
   </ol>
 </details>
 
