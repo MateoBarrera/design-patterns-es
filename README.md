@@ -21,9 +21,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
+![Watchers][watchers-shield]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -212,10 +210,12 @@ Enlace del proyecto: [https://github.com/MateoBarrera/design-patterns-es](https:
 [forks-url]: https://github.com/MateoBarrera/design-patterns-es/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/MateoBarrera/design-patterns-es/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/bitbucket/issues-raw/MateoBarrera/design-patterns-es?style=for-the-badge
 [issues-url]: https://github.com/MateoBarrera/design-patterns-es/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/MateoBarrera/design-patterns-es/blob/master/LICENSE.txt
+[watchers-shield]: https://img.shields.io/github/watchers/MateoBarrera/design-patterns-es?style=for-the-badge
+[watchers-url]: https://github.com/MateoBarrera/design-patterns-es
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/mateobarrerazapata
 [Python]: https://camo.githubusercontent.com/3df944c2b99f86f1361df72285183e890f11c52d36dfcd3c2844c6823c823fc1/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d507974686f6e26636f6c6f723d333737364142266c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646266c6162656c3d
