@@ -50,7 +50,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Tabla de contenido</summary>
   <ol>
     <li><a href="#acerca-del-proyecto">Acerca del proyecto</a></li>
     <li><a href="#introducción">Introducción</a></li>
@@ -66,11 +66,9 @@
 
 ## Acerca del proyecto
 
-Este repositorio contiene la aplicación de patrones de diseño clásicos presentados en GoF, e impartidos de manera didáctica por medio del proyecto Refactoring.guru.
+Este repositorio contiene la aplicación de patrones de diseño clásicos impartidos de manera didáctica por medio del proyecto Refactoring.guru y presentados en el libro "Patrones de Diseño: Elementos de software orientado a objetos reutilizable" escrito por Erich Gamma, Richard Helm, Ralph Johnson y John Vlissides, la banda de los cuatro (GoF - Gang of Four).
 
-Contiene ejemplos desarrollados en python para todos los patrones de diseño GoF clásicos.
-
-El único objetivo del repositorio es afianzar los conceptos impartidos por Refactoring.guru.
+El único objetivo de este repositorio es afianzar los conceptos impartidos por Refactoring.guru mediante ejemplos desarrollados en Python.
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -78,19 +76,18 @@ El único objetivo del repositorio es afianzar los conceptos impartidos por Refa
 
 ## Introducción
 
-Design Patterns (es) esta distribuido en carpetas de acuerdo con una clasificación de patrones por propósito.
+Design Patterns (es) esta distribuido en carpetas de acuerdo a la siguiente clasificación de los patrones:
 
 - Creacionales
 - Estructurales
 - Comportamentales
 
-Cada patron se identifica por su nombre (en ingles) en su respectiva carpeta, e incluye una breve descripción y enlaces de complemento a los recursos correspondientes de Refactor.Guru, los archivos .py de ejemplos acompañaran el folder respectivo.
+Cada patron se identifica por su nombre (en ingles) en su respectiva carpeta, e incluye una breve descripción y enlaces de complemento a los recursos correspondientes de Refactoring.Guru, los archivos .py de ejemplos acompañaran el folder respectivo.
 
 ## Prerrequisitos
 
+Todos los ejercicios han sido desarrollados en Python 3.10.6.<!--[![Python][python-shield]][python-url].-->
 Este repositorio no posee requisitos adicionales de un interprete python para su funcionamiento.
-
-Todos los ejercicios han sido desarrollados en [![Python][python-shield]][python-url].
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -98,7 +95,7 @@ Todos los ejercicios han sido desarrollados en [![Python][python-shield]][python
 
 ## Uso del repositorio
 
-Este repositorio y su información es de libre uso, siempre que se respete el objetivo principal del mismo y las normativas aplicables a la fuente de información primaria (Refactor.Guru).
+Este repositorio y su información es de libre uso, siempre que se respete el objetivo principal del mismo y las normativas aplicables a la fuente de información primaria (Refactoring.Guru).
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
@@ -147,13 +144,15 @@ Distribuido bajo la licencia MIT. Para mas información visite `LICENSE.txt` .
 
 Mateo Barrera- [@materile_19](https://twitter.com/materile_19) - mateobarrerazapata@gmail.com
 
-Enlace del proyecto: [https://github.com/MateoBarrera/design-patterns-es](https://github.com/MateoBarrera/design-patterns-es)
+Enlace del proyecto: [www.github.com/MateoBarrera/design-patterns-es](https://github.com/MateoBarrera/design-patterns-es)
 
 <p align="right">(<a href="#readme-top">Regresar al inicio</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Agradecimientos
+
+[www.refactoring.guru](https://refactoring.guru/es/design-patterns)
 
 <!-- Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
 
